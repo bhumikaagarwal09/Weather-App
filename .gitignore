@@ -1,0 +1,24 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files (in case you store API keys separately)
+.env
+
+# macOS metadata
+Icon?
+
+# VS Code settings (optional)
+.vscode/
+
+# Node modules (only if you're using npm packages)
+node_modules/
+
+# Dist or build folder (if you're building the project before deploy)
+dist/
+build/
